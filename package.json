@@ -1,0 +1,15 @@
+{
+	"name": "com.json_serialization.extensions",
+	"displayName": "Json Serialization Extensions",
+	"unity": "2018.3",
+	"version": "1.0.0",
+	"description": "JsonSerializerSettings, convert string to: ToSnakeCase, ToSnakeCase, ToCamelCase, ToKebabCase",
+	"author": "Sergii Safonov",
+	"dependencies": {
+		"com.dustinhorne.Json-NET-for-Unity-Developers" : "https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347"
+	},	
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Serghii/JsonSerializationExtensions.git"
+	}
+}
