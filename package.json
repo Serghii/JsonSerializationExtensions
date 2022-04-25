@@ -6,7 +6,7 @@
 	"description": "JsonSerializerSettings, convert string to: ToSnakeCase, ToSnakeCase, ToCamelCase, ToKebabCase",
 	"author": "Sergii Safonov",
 	"dependencies": {
-		"com.unity.nuget.newtonsoft-json" : "https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347"
+		"com.unity.nuget.newtonsoft-json" : "2.0.1"
 	},	
 	"repository": {
 		"type": "git",
